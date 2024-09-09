@@ -1,4 +1,3 @@
 # react-sample-repository
-# react-sample-repository
-# react-sample-repository
-# react sample project setting
+
+- react 실습 프로젝트 샘플 정리
